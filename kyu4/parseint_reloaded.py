@@ -1,4 +1,5 @@
 # https://www.codewars.com/kata/parseint-reloaded/train/python
+# INCOMPLETE
 import test
 
 _MAPPING = {
